@@ -1,13 +1,6 @@
 # subjs
 ## Description
-A tool to get javascript files from a list of URLS or subdomains. Analyzing javascript files can help you find undocumented endpoints, etc.
-
-It's recommended to pair this with [https://github.com/GerbenJavado/LinkFinder](https://github.com/GerbenJavado/LinkFinder)
-
-
-## Usage:
-
-`cdl@doggos ~> cat urls.txt | subjs -json`
+A tool t| subjs -json`
 
 [![asciicast](https://asciinema.org/a/234238.svg)](https://asciinema.org/a/234238)
 
